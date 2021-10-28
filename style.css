@@ -1,0 +1,35 @@
+
+html{
+    background: rgb(37, 37, 37);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:20px;
+    padding:20px;
+    color: darkblue;
+    border-top:10px solid darkblue;
+    background-color: rgb(255, 212, 219);
+}
+
+h1{
+    font-size: 4em;
+    margin: 0;
+
+}
+
+p{
+    line-height: 1.6em;
+    color: rgb(37, 37, 37);
+
+
+}
+
+#blog{
+    border-top: 1px dotted darkblue;
+
+}
+
+.blog-post{
+    border-bottom:1px dotted darkblue;
+
+}
