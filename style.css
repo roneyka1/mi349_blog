@@ -87,4 +87,35 @@ article{
 
 
 
+@media (max-width: 400px) {
+    main {
+        margin: 0 auto;
+    }
+    img.img-container {
+        width: 100%;
+
+    }
+}
+
+
+@media (min-width: 400px ) {
+    .para {
+        text-align: center;
+        
+    }
+
+    h1, h2 {
+        text-align: center;
+    }
+
+    ul {
+        text-align: center;
+        
+    }
+
+    .blog-post {
+        margin: 5;
+    }
+}
+
 
